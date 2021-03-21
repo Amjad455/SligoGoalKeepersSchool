@@ -1,0 +1,172 @@
+nav 
+{ 
+background-color: black;
+}
+
+nav ul
+{
+text-align: center;
+font-size: 1.2em;    
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: #2b794c;
+    display: inline;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+    
+}
+
+nav 
+{
+    padding: 5px;
+    
+}
+
+nav ul li
+{
+    
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid #ffd800;
+    border-radius: 12px;
+}
+nav ul li:hover 
+{
+    background-color: #5c1717;
+}
+aside {
+    border: 2px solid #1C6E8C;
+    border-radius: 10px;
+    width: 150px;
+    float: right;
+    color: white;
+    border-radius: 10px;
+    background: #9FA2B2;
+    margin: 10px;
+    padding: 10px;
+}
+
+aside ul li a {
+    color: blue;
+    text-decoration: none;
+}
+
+aside ul li {
+    list-style-type: none;
+}
+
+aside ol li {
+    list-style-type: none;
+}
+header
+{
+    background-color: rgb(114, 180, 229);
+    padding: 50px;
+}
+#active
+{
+    border-color: #21b1f0;
+}
+body
+{
+font-family: verdana;
+}
+h2
+{
+text-align: center;   
+}
+p
+{
+    text-align: justify;
+}
+body
+{
+    background-blend-mode: color;
+    background-color: #cecece;
+}
+.team
+{
+    
+}
+
+footer {
+    clear: both;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: #9FA2B2;
+    text-align: center;
+    border: 2px solid #1C6E8C;
+    border-radius: 10px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+#first {
+    border: 2px solid #1C6E8C;
+    border-radius: 10px;
+    margin: 10px;
+    width: 80%;
+    height: 300px;
+    
+}
+
+#team {
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 15px;
+    
+}
+
+#text {
+    text-align: justify;
+    margin-right: 50px;
+}
+
+#meet {
+    margin: 20px;
+}
+
+#team2 {
+    width: 50%;
+    height: 60%;
+}
+
+
+.col {
+    column-count: 2;
+    column-rule: 2px solid white;
+    column-gap: 50px;
+    column-width: 10px;
+    column-span: all;
+    padding: 10px;
+    float: left;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+#amjad {
+    width: 250px;
+    height: 300px;
+    margin: 20px;
+}
+
+#Mission {
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 15px;
+}
